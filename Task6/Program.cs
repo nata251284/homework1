@@ -11,9 +11,9 @@ int number = Convert.ToInt32(numberstr);
 
 if (number%2 == 0)
 {
-    Console.WriteLine("Да");
+    Console.WriteLine("Число четное");
 }
 else
 {
-  Console.WriteLine("Нет");  
+  Console.WriteLine("Число нечетное");  
 }
